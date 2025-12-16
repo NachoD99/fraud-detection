@@ -12,3 +12,4 @@ C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\
 C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\obj\Debug\net8.0\fraud-detection.pdb
 C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\obj\Debug\net8.0\fraud-detection.genruntimeconfig.cache
 C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\obj\Debug\net8.0\ref\fraud-detection.dll
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\obj\Debug\net8.0\fraud-detection.sourcelink.json
