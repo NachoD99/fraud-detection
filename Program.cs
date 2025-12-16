@@ -1,10 +1,12 @@
-﻿var firstLine = Console.ReadLine();
+﻿using FraudDetection.Domain;
+
+var firstLine = Console.ReadLine();
 if (firstLine is null)
     return;
 
 int n = int.Parse(firstLine.Trim());
 
-var lines = new List<string>(n);
+var orders = new List<Order>(n);
 
 for (int i = 0; i < n; i++)
 {
@@ -17,7 +19,13 @@ for (int i = 0; i < n; i++)
         continue;
     }
 
-    lines.Add(line);
+    orders.Add(OrderParser.Parse(line));
 }
 
-Console.WriteLine($"Read {lines.Count} records");
+if (orders.Count > 0)
+{
+    foreach(var o in orders) {
+        Console.WriteLine($"#{o.OrderId} order: id={o.OrderId}, deal={o.DealId}, email={o.Email}, card={o.CardNumber}");
+    }
+}
+else Console.WriteLine("No orders read");
