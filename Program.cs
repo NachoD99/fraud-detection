@@ -22,10 +22,13 @@ for (int i = 0; i < n; i++)
     orders.Add(OrderParser.Parse(line));
 }
 
-if (orders.Count > 0)
-{
-    foreach(var o in orders) {
-        Console.WriteLine($"#{o.OrderId} order: id={o.OrderId}, deal={o.DealId}, email={o.Email}, card={o.CardNumber}");
-    }
-}
-else Console.WriteLine("No orders read");
+var detector = new FraudDetector();
+var fraudulentIds = detector.DetectFraudulentOrderIds(orders);
+
+var output = fraudulentIds
+    .OrderBy(id => id)
+    .Select(id => id.ToString())
+    .ToArray();
+
+Console.WriteLine($"Fraudulent order ids: {string.Join(", ", output)}");
+
