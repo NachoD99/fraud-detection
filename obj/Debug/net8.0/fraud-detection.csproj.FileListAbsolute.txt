@@ -1,0 +1,14 @@
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\bin\Debug\net8.0\fraud-detection.exe
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\bin\Debug\net8.0\fraud-detection.deps.json
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\bin\Debug\net8.0\fraud-detection.runtimeconfig.json
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\bin\Debug\net8.0\fraud-detection.dll
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\bin\Debug\net8.0\fraud-detection.pdb
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\obj\Debug\net8.0\fraud-detection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\obj\Debug\net8.0\fraud-detection.AssemblyInfoInputs.cache
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\obj\Debug\net8.0\fraud-detection.AssemblyInfo.cs
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\obj\Debug\net8.0\fraud-detection.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\obj\Debug\net8.0\fraud-detection.dll
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\obj\Debug\net8.0\refint\fraud-detection.dll
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\obj\Debug\net8.0\fraud-detection.pdb
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\obj\Debug\net8.0\fraud-detection.genruntimeconfig.cache
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\fraud-detection\fraud-detection\obj\Debug\net8.0\ref\fraud-detection.dll
